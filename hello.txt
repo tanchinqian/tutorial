@@ -1,0 +1,8 @@
+Hello
+This is another update to the code
+
+This is only exclusive to feature 1
+This is feature 2
+This Other changes
+This is stored in the stash
+This is stored in the stash2
